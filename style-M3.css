@@ -60,3 +60,11 @@ a:hover {
 	font-family: Alegreya-Bold;
 	font-size: 25px;
 }
+.footer {
+	background-color: rgb(243, 242, 236);
+	display: flex;
+	justify-content: center;
+}
+.year {
+	font-family: OpenSans-Italic;
+}
